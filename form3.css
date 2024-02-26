@@ -1,0 +1,171 @@
+ .u-section-1 {
+  background-image: url("images/Group64.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 700px;
+}
+
+.u-section-1 .u-table-1 {
+  margin-top: 203px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-table-entity-1 {
+  min-height: 100px;
+}
+
+.u-section-1 .u-table-header-1 {
+  background-image: none;
+  font-weight: 700;
+  font-family: Ahlan-world-Arbfonts;
+}
+
+.u-section-1 .u-table-body-1 {
+  font-family: Ahlan-world-Arbfonts;
+}
+
+.u-section-1 .u-table-cell-5 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-6 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-7 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-8 {
+  background-image: none;
+  font-family: Ahlan-world-Arbfonts;
+}
+
+.u-section-1 .u-table-cell-9 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-10 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-11 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-12 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-13 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-14 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-15 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-16 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-17 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-18 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-19 {
+  background-image: none;
+}
+
+.u-section-1 .u-table-cell-20 {
+  background-image: none;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-size: 0.9375rem;
+  --bottom-right-radius: 32px;
+  background-image: none;
+  font-weight: 700;
+  font-family: Ahlan-world-Arbfonts;
+  --top-left-radius: 32px;
+  margin: 31px auto 0 338px;
+  padding: 12px 61px 12px 60px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  font-size: 0.9375rem;
+  --bottom-right-radius: 32px;
+  background-image: none;
+  font-weight: 700;
+  font-family: Ahlan-world-Arbfonts;
+  --top-left-radius: 32px;
+  margin: -50px 287px 60px auto;
+  padding: 12px 61px 12px 60px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 606px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    --bottom-left-radius: 32px;
+    margin-top: 44px;
+    margin-bottom: -142px;
+    margin-left: 138px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 87px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 632px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 0.75rem;
+    margin-top: 20px;
+    margin-bottom: 0;
+    padding: 8px 34px 9px 33px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    font-size: 0.75rem;
+    --bottom-left-radius: 32px;
+    margin-top: -38px;
+    padding: 8px 28px 9px 27px;
+  }
+}@font-face {
+  font-family: 'Ahlan-world-Arbfonts';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Ahlan-world-Arbfonts.otf);
+}

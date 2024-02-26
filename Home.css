@@ -1,0 +1,75 @@
+ .u-section-1 {
+  background-image: url("images/Group142.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-1 .u-btn-1 {
+  --radius: 50px;
+  border-style: solid;
+  text-transform: uppercase;
+  font-size: 1.125rem;
+  letter-spacing: 1px;
+  font-family: Ahlan-world-Arbfonts;
+  font-weight: 700;
+  margin: 545px auto 60px 160px;
+  padding: 10px 114px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 592px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 0.875rem;
+    margin-top: 459px;
+    margin-right: 567px;
+    margin-left: 138px;
+    padding-right: 92px;
+    padding-left: 90px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 466px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 348px;
+    margin-right: 457px;
+    margin-left: 118px;
+    padding: 9px 50px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 377px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin: 274px 305px 57px 54px;
+    padding: 10px 56px 11px 55px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 254px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin: 187px 105px 41px 24px;
+    padding: 0 24px 0 23px;
+  }
+}@font-face {
+  font-family: 'Ahlan-world-Arbfonts';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Ahlan-world-Arbfonts.otf);
+}

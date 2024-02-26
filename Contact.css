@@ -1,0 +1,166 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(242,242,242,0.75), rgba(242,242,242,0.75)), url("images/Group142.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 134px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 489px;
+  background-image: url("images/Group142.jpg");
+  background-position: 46.5% 54%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 489px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-form-1 {
+  background-image: none;
+  height: 487px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-label-1 {
+  font-family: Ahlan-world-Arbfonts;
+}
+
+.u-section-1 .u-input-1 {
+  font-family: Ahlan-world-Arbfonts;
+}
+
+.u-section-1 .u-label-2 {
+  font-family: Ahlan-world-Arbfonts;
+}
+
+.u-section-1 .u-input-2 {
+  font-family: Ahlan-world-Arbfonts;
+}
+
+.u-section-1 .u-label-3 {
+  font-family: Ahlan-world-Arbfonts;
+}
+
+.u-section-1 .u-input-3 {
+  font-family: Ahlan-world-Arbfonts;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  --radius: 50px;
+  font-family: Ahlan-world-Arbfonts;
+  padding: 10px 155px 10px 154px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 594px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 89px;
+    margin-bottom: 18px;
+  }
+
+  .u-section-1 .u-image-1 {
+    background-size: auto 120%;
+    min-height: 403px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 403px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 635px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 103px;
+    margin-bottom: 45px;
+  }
+
+  .u-section-1 .u-image-1 {
+    background-position: 67.4% 75.91%;
+    min-height: 309px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 487px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+    margin-left: 14px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 963px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 145px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 421px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 807px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 139px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 265px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 0;
+  }
+}@font-face {
+  font-family: 'Ahlan-world-Arbfonts';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Ahlan-world-Arbfonts.otf);
+}
